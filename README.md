@@ -4,6 +4,8 @@
 
 Designed for large enterprises, SMEs, retail stores, restaurants, and temporary or pop-up operations, **NOVA ERP** brings core operational modules together in one lightweight workspace. Skip complex backend setup, launch fast, and keep your data and configuration under your own control.
 
+中文: https://github.com/kokami730-cmd/NOVA-ERP/blob/main/README.md#-nova-erp-1
+
 ---
 
 ## ✨ Key Highlights
