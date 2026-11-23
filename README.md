@@ -110,7 +110,9 @@ Designed for large enterprises, SMEs, retail stores, restaurants, and temporary 
 
 > 💡 **Feedback & Contributions**: If you are looking for a lightweight, backend-free ERP with broad operational coverage, try out the release and share feedback or suggestions via GitHub Issues.
 
+<br><br><br>
 <hr>
+<br><br><br>
 
 > # 🚀 NOVA ERP
 
