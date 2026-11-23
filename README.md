@@ -107,8 +107,9 @@ Designed for large enterprises, SMEs, retail stores, restaurants, and temporary 
 3. Sign in, set up your company and staff accounts, and start managing operations.
 
 > 💡 **Feedback & Contributions**: If you are looking for a lightweight, backend-free ERP with broad operational coverage, try out the release and share feedback or suggestions via GitHub Issues.
->
-> 中文
+
+
+
 > # 🚀 NOVA ERP
 
 **零服务器、零 SQL、零 Node.js、零数据库维护——用 GitHub API 驱动的全能型浏览器 ERP 系统！**
