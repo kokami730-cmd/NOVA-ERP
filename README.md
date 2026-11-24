@@ -19,18 +19,9 @@
   Skip complex backend setup, launch fast, and keep your data and configuration under your own control.
 </p>
 
-<p>
-  <a href="#english-version"><strong>🇺🇸 English Version</strong></a> •
-  
-</p>
-
 </div>
 
 ---
-
-<a id="english-version"></a>
-
-# 🇺🇸 English Version
 
 ## ✨ Key Highlights
 
@@ -100,7 +91,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>📈 2. Sales, Customers & Promotions (Sales / Members / Promoter)</strong></summary>
 <br />
 
@@ -112,7 +103,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>📦 3. Products, Inventory & Supply Chain (Products / Expiry / Stock / Supply Chain)</strong></summary>
 <br />
 
@@ -127,7 +118,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>👥 4. People, HR & Administration (Staff / Manual / Payroll / Claims / Timeline)</strong></summary>
 <br />
 
@@ -139,7 +130,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🗂️ 5. Documents, Audit Trail, Organization & Settings (Drive / Notes / Logs / Company / Core Modules)</strong></summary>
 <br />
 
