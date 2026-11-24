@@ -19,9 +19,18 @@
   Skip complex backend setup, launch fast, and keep your data and configuration under your own control.
 </p>
 
+<p>
+  <a href="#english-version"><strong>🇺🇸 English Version</strong></a> •
+  <a href="#中文版"><strong>🇨🇳 中文版</strong></a>
+</p>
+
 </div>
 
 ---
+
+<a id="english-version"></a>
+
+# 🇺🇸 English Version
 
 ## ✨ Key Highlights
 
@@ -33,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🏪 Built for Diverse Business Models</h3>
-      <p>Supports standard commercial workflows, sales tracking, restaurant table status (clear green/red visual indicators), and temporary or pop-up operations.</p>
+      <p>Supports standard commercial workflows, sales tracking, restaurant table status (green/red indicators), and temporary or pop-up business operations.</p>
     </td>
   </tr>
   <tr>
@@ -43,7 +52,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ End-to-End Activity Visibility</h3>
-      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain transparent and accountable.</p>
+      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain clear and accountable.</p>
     </td>
   </tr>
 </table>
@@ -131,7 +140,7 @@
 </details>
 
 <details>
-<summary><strong>🗂️ 5. Documents, Audit Trail, Organization & Settings (Drive / Notes / Logs / Company / Core)</strong></summary>
+<summary><strong>🗂️ 5. Documents, Audit Trail, Organization & Settings (Drive / Notes / Logs / Company / Core Modules)</strong></summary>
 <br />
 
 23. **Drive Storage**: Upload files, **create and edit documents online**, and download files to your device.
@@ -150,7 +159,7 @@
 1. Download or clone this repository (v3.1.40.3)
         │
         ▼
-2. Open the "Setup / Installer" screen and configure your GitHub API details
+2. Open the "System Setup / Installer" screen and configure GitHub API details
         │
         ▼
-3. Sign in, set up your company and staff accounts, and start managing operations!
+3. Sign in, set up your company and staff accounts, and start operations!
