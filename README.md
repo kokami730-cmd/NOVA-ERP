@@ -4,6 +4,8 @@
 
 **No server. No SQL. No Node.js. No database overhead — a full-featured browser-based ERP powered by the GitHub API.**
 
+A clean, responsive UI built for every screen — smartphones, tablets, and desktops all work seamlessly.
+
 <br />
 
 [![Version](https://img.shields.io/badge/Version-v3.1.40.3-2563EB?style=for-the-badge)](#release--tech-stack)
@@ -39,7 +41,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🪶 Lightweight Frontend Stack</h3>
-      <p>Built with <strong>HTML, JavaScript, and JSON</strong> for fast deployment, clear structure, and straightforward customization right in the browser.</p>
+      <p>Built with <strong>HTML, JavaScript, and JSON</strong> for fast deployment, clear structure, and smooth performance across phones, tablets, and desktops.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ End-to-End Activity Visibility</h3>
