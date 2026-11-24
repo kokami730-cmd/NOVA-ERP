@@ -14,7 +14,7 @@
 <br />
 
 <p>
-  Built for <strong>large enterprises, SMEs, retail stores</strong>, as well as <strong>restaurants and pop-up / temporary operations</strong>,<br />
+  Designed for <strong>large enterprises, SMEs, retail stores, restaurants</strong>, and <strong>temporary or pop-up operations</strong>,<br />
   <strong>NOVA ERP</strong> brings core operational modules together in one lightweight workspace.<br />
   Skip complex backend setup, launch fast, and keep your data and configuration under your own control.
 </p>
@@ -43,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ End-to-End Activity Visibility</h3>
-      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain clear and accountable.</p>
+      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain transparent and accountable.</p>
     </td>
   </tr>
 </table>
@@ -52,12 +52,12 @@
 
 ## 📦 Release & Tech Stack
 
-| Item | Details |
+| Attribute | Details |
 | :--- | :--- |
 | **Latest Version** | `v3.1.40.3` **`[NEW]`** |
 | **UI Language** | English only (currently) |
-| **Architecture** | HTML + JavaScript + JSON |
-| **Storage & Sync Engine** | GitHub API (no traditional SQL database or standalone backend required) |
+| **Architecture** | HTML, JavaScript, and JSON |
+| **Storage & Sync Engine** | GitHub API (no traditional SQL database or standalone backend server required) |
 
 ---
 
@@ -99,7 +99,7 @@
 6. **Sales Records**: Centralize and review historical sales transactions for easy lookup and reconciliation.
 7. **Commission Report**: Designed for sales operations to view **commission** figures per staff member.
 8. **Members**: Create customer member profiles with support for **bookings/reservations, loyalty points**, and **membership tiers**.
-9. **Promoter**: Built for businesses involving cross-company or on-site promotions—manage external promoters visiting your business or assign your staff to promote at partner or other businesses.
+9. **Promoter**: Built for businesses involving cross-company or on-site promotions—manage external promoters visiting your business or assign your staff to promote at partner/other businesses.
 
 </details>
 
@@ -113,8 +113,8 @@
 13. **Orders**: Supports placing replenishment orders and handling customer orders (requires manual execution).
 14. **Purchase**: Create purchase entries quickly for business procurement (requires manual execution).
 15. **Delivery**: Dispatch goods to affiliated companies or partner businesses.
-16. **Exchange**: Handle defective or damaged goods by processing exchanges with the original supplier or source.
-17. **Returns**: Return excess inventory back to the supplier or source when overstocked.
+16. **Exchange**: Handle defective or damaged goods by processing exchanges with the original supplier/source.
+17. **Returns**: Return excess inventory back to the supplier/source when overstocked.
 
 </details>
 
@@ -150,7 +150,7 @@
 1. Download or clone this repository (v3.1.40.3)
         │
         ▼
-2. Open the "Setup / Installer" screen and configure GitHub API parameters
+2. Open the "Setup / Installer" screen and configure your GitHub API details
         │
         ▼
-3. Sign in, create company and staff accounts, and start operations!
+3. Sign in, set up your company and staff accounts, and start managing operations!
