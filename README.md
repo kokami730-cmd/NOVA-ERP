@@ -14,13 +14,7 @@
 <br />
 
 <p>
-  <a href="#-english"><strong>🇺🇸 English</strong></a> &nbsp;|&nbsp; <a href="#-中文版"><strong>🇨🇳 中文版</strong></a>
-</p>
-
-<br />
-
-<p>
-  Designed for <strong>large enterprises, SMEs, retail stores, restaurants</strong>, and <strong>temporary or pop-up operations</strong>,<br />
+  Built for <strong>large enterprises, SMEs, retail stores</strong>, as well as <strong>restaurants and pop-up / temporary operations</strong>,<br />
   <strong>NOVA ERP</strong> brings core operational modules together in one lightweight workspace.<br />
   Skip complex backend setup, launch fast, and keep your data and configuration under your own control.
 </p>
@@ -29,47 +23,45 @@
 
 ---
 
-## 🇺🇸 English
-
-### ✨ Key Highlights
+## ✨ Key Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ Zero Backend Setup</h4>
+      <h3>⚡ Zero Backend Setup</h3>
       <p>Run without self-hosted servers, databases, or Node.js. Data storage and synchronization are powered by the <strong>GitHub API</strong>, cutting infrastructure complexity and hosting overhead.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏪 Built for Diverse Business Models</h4>
-      <p>Supports standard commercial workflows, sales tracking, restaurant table status (green/red visual indicators), and temporary or pop-up business operations.</p>
+      <h3>🏪 Built for Diverse Business Models</h3>
+      <p>Supports standard commercial workflows, sales tracking, restaurant table status (clear green/red visual indicators), and temporary or pop-up operations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🪶 Lightweight Frontend Stack</h4>
-      <p>Built with <strong>HTML, JavaScript, and JSON</strong> for fast deployment, clear structure, and straightforward customization directly in the browser.</p>
+      <h3>🪶 Lightweight Frontend Stack</h3>
+      <p>Built with <strong>HTML, JavaScript, and JSON</strong> for fast deployment, clear structure, and straightforward customization right in the browser.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ End-to-End Activity Visibility</h4>
-      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain transparent and accountable.</p>
+      <h3>🛡️ End-to-End Activity Visibility</h3>
+      <p>Tracks attendance, claims, payroll, and system-wide audit logs so key operational changes remain clear and accountable.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📦 Release & Tech Stack
+## 📦 Release & Tech Stack
 
 | Item | Details |
 | :--- | :--- |
 | **Latest Version** | `v3.1.40.3` **`[NEW]`** |
 | **UI Language** | English only (currently) |
 | **Architecture** | HTML + JavaScript + JSON |
-| **Storage & Sync Engine** | GitHub API (zero traditional SQL database or standalone backend required) |
+| **Storage & Sync Engine** | GitHub API (no traditional SQL database or standalone backend required) |
 
 ---
 
-### 🧩 Modules Overview (30 Modules)
+## 🧩 Modules Overview (30 Modules)
 
 | # | Module | # | Module | # | Module |
 | :---: | :--- | :---: | :--- | :---: | :--- |
@@ -86,20 +78,20 @@
 
 ---
 
-### 📖 Detailed Feature Guide
+## 📖 Detailed Feature Guide
 
 <details open>
 <summary><strong>💳 1. Point of Sale & Floor Operations (POS / Table / Station Intel / Receipt Viewer)</strong></summary>
 <br />
 
 1. **POS**: Checkout interface supporting **Cash, QR, Card, Wallet, Installments**, and **account/credit bookkeeping (tab/ledger)**.
-2. **Table**: Tailored for dining and hospitality — 🟢 **green** indicates an available table, and 🔴 **red** indicates an active order or occupied table.
+2. **Table**: Tailored for dining and hospitality—🟢 **green** indicates an available table, and 🔴 **red** indicates an active order or occupied table.
 3. **Station Intel**: Configure multiple checkout stations/counters and select the active station directly in POS during checkout.
 4. **Receipt Viewer**: Look up past transactions and **reprint receipts** for customers on demand.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>📈 2. Sales, Customers & Promotions (Sales / Members / Promoter)</strong></summary>
 <br />
 
@@ -107,11 +99,11 @@
 6. **Sales Records**: Centralize and review historical sales transactions for easy lookup and reconciliation.
 7. **Commission Report**: Designed for sales operations to view **commission** figures per staff member.
 8. **Members**: Create customer member profiles with support for **bookings/reservations, loyalty points**, and **membership tiers**.
-9. **Promoter**: Built for businesses involving cross-company or on-site promotions — manage external promoters visiting your business or assign your staff to promote at partner/other businesses.
+9. **Promoter**: Built for businesses involving cross-company or on-site promotions—manage external promoters visiting your business or assign your staff to promote at partner or other businesses.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>📦 3. Products, Inventory & Supply Chain (Products / Expiry / Stock / Supply Chain)</strong></summary>
 <br />
 
@@ -121,12 +113,12 @@
 13. **Orders**: Supports placing replenishment orders and handling customer orders (requires manual execution).
 14. **Purchase**: Create purchase entries quickly for business procurement (requires manual execution).
 15. **Delivery**: Dispatch goods to affiliated companies or partner businesses.
-16. **Exchange**: Handle defective or damaged goods by processing exchanges with the original supplier/source.
-17. **Returns**: Return excess inventory back to the supplier/source when overstocked.
+16. **Exchange**: Handle defective or damaged goods by processing exchanges with the original supplier or source.
+17. **Returns**: Return excess inventory back to the supplier or source when overstocked.
 
 </details>
 
-<details open>
+<details>
 <summary><strong>👥 4. People, HR & Administration (Staff / Manual / Payroll / Claims / Timeline)</strong></summary>
 <br />
 
@@ -138,7 +130,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🗂️ 5. Documents, Audit Trail, Organization & Settings (Drive / Notes / Logs / Company / Core)</strong></summary>
 <br />
 
@@ -152,13 +144,13 @@
 
 ---
 
-### 🛠️ Quick Start
+## 🛠️ Quick Start
 
 ```text
 1. Download or clone this repository (v3.1.40.3)
         │
         ▼
-2. Open the Setup / Installer screen and configure your GitHub API details
+2. Open the "Setup / Installer" screen and configure GitHub API parameters
         │
         ▼
-3. Sign in, set up your company & staff accounts, and start managing operations!
+3. Sign in, create company and staff accounts, and start operations!
